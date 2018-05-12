@@ -1,0 +1,24 @@
+_repo: Julius-Krohn-runoilijana_45987
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trast, V. K.
+    gutenberg_agent_id: '43556'
+    url: http://www.gutenberg.org/2009/agents/43556
+description: ''
+gutenberg_issued: '2014-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45987'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Krohn, Julius, 1835-1888'
+title: Julius Krohn runoilijana
+url: http://www.gutenberg.org/ebooks/45987
